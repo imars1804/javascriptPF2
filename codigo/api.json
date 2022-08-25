@@ -1,0 +1,146 @@
+[
+    {
+        "precio": 1200,
+        "id": 1,
+        "title": "Manga Shoujo",
+        "imgn": "../img/MangaShoujo.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 2,
+        "title": "Manga Shonen",
+        "imgn": "../img/MangaShonen.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 3,
+        "title": "Manga Seinen",
+        "imgn": "../img/MangaSeinen.png"
+    },
+    {
+        "precio": 1200,
+        "id": 4,
+        "title": "Manga Josei",
+        "imgn": "../img/MangaJosei.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 5,
+        "title": "Manga BL",
+        "imgn": "../img/MangaBL.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 6,
+        "title": "Manga GL",
+        "imgn": "../img/MangaGL.jpg"
+    },
+    {
+        "precio": 3500,
+        "id": 7,
+        "title": "Libro Romance",
+        "imgn": "../img/LibroRom.jpg"
+    },
+    {
+        "precio": 3000,
+        "id": 8,
+        "title": "Libro Infantil",
+        "imgn": "../img/LibroInfant.jpg"
+    },
+    {
+        "precio": 3500,
+        "id": 9,
+        "title": "Libro Histórico",
+        "imgn": "../img/LibroHist.png"
+    },
+    {
+        "precio": 3500,
+        "id": 10,
+        "title": "Libro Fantasía",
+        "imgn": "../img/LibroFant.jpg"
+    },
+    {
+        "precio": 3500,
+        "id": 11,
+        "title": "Libro Clásico",
+        "imgn": "../img/LibroClas.jpg"
+    },
+    {
+        "precio": 4000,
+        "id": 12,
+        "title": "Cómic",
+        "imgn": "../img/Comic.jpg"
+    },
+    {
+        "precio": 6500,
+        "id": 13,
+        "title": "Figura Naruto",
+        "imgn": "../img/FigNaruto.jpg"
+    },
+    {
+        "precio": 6500,
+        "id": 14,
+        "title": "Figura Jujutsu Kaisen",
+        "imgn": "../img/FigJJK.jpg"
+    },
+    {
+        "precio": 6500,
+        "id": 15,
+        "title": "Figura Hunter X Hunter",
+        "imgn": "../img/FigHxH.jpg"
+    },
+    {
+        "precio": 6500,
+        "id": 16,
+        "title": "Figura Demon Slayer",
+        "imgn": "../img/FigDS.webp"
+    },
+    {
+        "precio": 6500,
+        "id": 17,
+        "title": "Figura BNHA",
+        "imgn": "../img/FigBNHA.webp"
+    },
+    {
+        "precio": 6500,
+        "id": 18,
+        "title": "Figura AOT",
+        "imgn": "../img/FigAOT.jpg"
+    },
+    {
+        "precio": 1000,
+        "id": 19,
+        "title": "Peluche BNHA",
+        "imgn": "../img/PelBNHA.jpg"
+    },
+    {
+        "precio": 1000,
+        "id": 20,
+        "title": "Peluche Demon Slayer",
+        "imgn": "../img/PelDS.jpg"
+    },
+    {
+        "precio": 1000,
+        "id": 21,
+        "title": "Peluche Jujutsu Kaisen",
+        "imgn": "../img/PelJJK.jpg"
+    },
+    {
+        "precio": 1000,
+        "id": 22,
+        "title": "Peluche Kamisama Hajimemashita",
+        "imgn": "../img/PelKH.png"
+    },
+    {
+        "precio": 1000,
+        "id": 23,
+        "title": "Peluche Naruto",
+        "imgn": "../img/PelNaruto.jpg"
+    },
+    {
+        "precio": 1500,
+        "id": 24,
+        "title": "Peluche Personalizado",
+        "imgn": "../img/PelX.jpg"
+    }
+]

@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
     fetchData()
+    if (localStorage.getItem('carrito')) {
+        carrito = JSON.parse(localStorage.getItem('carrito'))
+        pintarCarrito()
+    }
 })
 
 const fetchData = async () => {
@@ -73,6 +77,8 @@ const pintarCarrito = () => {
     pintarFooter()
     accionBotones()
 
+    localStorage.setItem('carrito', JSON.stringify(carrito))
+
 }
 
 const footer = document.querySelector('#footer-carrito')
@@ -106,6 +112,11 @@ const pintarFooter = () => {
     boton.addEventListener('click', () => {
         carrito = {}
         pintarCarrito()
+        swal({
+            title: "Carrito vaciado!",
+            text: "Hemos vaciado tu carrito! Esperamos que vuelvas pronto!",
+            icon: "success",
+          });
     })
 
 }

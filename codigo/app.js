@@ -115,6 +115,17 @@ const pintarFooter = () => {
         swal({
             title: "Carrito vaciado!",
             text: "Hemos vaciado tu carrito! Esperamos que vuelvas pronto!",
+            icon: "info",
+          });
+    })
+
+    const comprarButton = document.querySelector('#finalizar-compra')
+    comprarButton.addEventListener('click', () => {
+        carrito = {}
+        pintarCarrito()
+        swal({
+            title: "Compra finalizada!",
+            text: "Hemos registrado tu compra! Pronto llegará tu pedido!",
             icon: "success",
           });
     })
